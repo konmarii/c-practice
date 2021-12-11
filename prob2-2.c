@@ -9,5 +9,5 @@ void main(){
     printf("長方形の高さ：");
     scanf("%d", &rectangleHeight);
     
-    printf("長方形の面積は、%dm２です。\n", rectangleLength*rectangleHeight);
+    printf("長方形の面積は、%d平方メートルです。\n", rectangleLength*rectangleHeight);
 }
